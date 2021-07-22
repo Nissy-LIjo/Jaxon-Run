@@ -3,7 +3,7 @@ var path,pathIMG
 var invis1,invis2
 function preload(){
   //pre-load images
-jaxon_running= loadAnimation ("runner-1.png","runner-2.png")
+jaxon_running= loadAnimation ("Runner-1.png","Runner-2.png")
 pathIMG=loadImage("path.png")
 }
 
